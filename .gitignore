@@ -1,0 +1,25 @@
+# Credentials
+.env
+
+# Virtual environments
+.venv/
+venv/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Tool caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Build outputs
+build/
+dist/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
